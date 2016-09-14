@@ -1,0 +1,32 @@
+.page {
+  display: none;
+  position: absolute;
+}
+
+.fancy {
+  font-family: 'Tangerine';
+}
+
+.mono {
+  font-family: 'Cutive Mono';
+}
+
+.term {
+  font-family: 'VT323';
+}
+
+.hand {
+  font-family: 'Neucha';
+}
+
+.cursive {
+  font-family: 'Homemade Apple';
+}
+
+.big {
+  font-size: 32px;
+}
+
+.small {
+  font-size: 12px;
+}
